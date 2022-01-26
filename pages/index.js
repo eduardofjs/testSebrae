@@ -1,7 +1,6 @@
 import Head from 'next/head'
 import Image from 'next/image'
 import Link from 'next/link'
-import impeamLogo from '../public/ipeam.png'
 
 export default function Home() {
   return (
@@ -9,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Teste atendimento</title>
         <link rel="icon" href="/favicon.ico" />
+        <script src="//code-eu1.jivosite.com/widget/yOULIkj3Ug" async></script>
       </Head>
 
       <main>
